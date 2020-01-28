@@ -24,7 +24,7 @@ System.out.println("I am " + age + " years old");
 
 System.out.println("I have " + money + " in my wallet");
 
-System.out.println("My name " + "is " + fullName);
+System.out.println("My name is " + fullName);
 
 System.out.println("I have "+ cash + " left in my account after going shopping");
 
